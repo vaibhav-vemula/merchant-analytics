@@ -1,11 +1,11 @@
 'use client'
 
 import { useState } from 'react'
-import DashboardOverview from '@/components/DashboardOverview'
-import MerchantAnalytics from '@/components/MerchantAnalytics'
-import BusinessCustomerAnalytics from '@/components/BusinessCustomerAnalytics'
-import PredictionAnalytics from '@/components/PredictionAnalytics'
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
+import DashboardOverview from '../components/DashboardOverview'
+import MerchantAnalytics from '../components/MerchantAnalytics'
+import BusinessCustomerAnalytics from '../components/BusinessCustomerAnalytics'
+import PredictionAnalytics from '../components/PredictionAnalytics'
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '../components/ui/tabs'
 import data from './data.json'
 
 export default function Home() {
