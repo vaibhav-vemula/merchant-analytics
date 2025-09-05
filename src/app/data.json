@@ -1,0 +1,315 @@
+{
+  "summary": {
+    "total_entities_onboarded": 744,
+    "total_platform_volume": 1290724.29,
+    "overall_active_rate": 7.39,
+    "data_processing_date": "2025-09-04T18:48:16.239744",
+    "comprehensive_breakdown": {
+      "individual_customers": 0,
+      "merchants": 3,
+      "business_customers": 741
+    }
+  },
+  "merchants": {
+    "total_merchants": 3,
+    "active_merchants": 3,
+    "inactive_merchants": 0,
+    "total_gross_sales": 786881.17,
+    "total_net_sales": 780794.22,
+    "average_profit_margin": 60.410000000000004,
+    "merchant_details": [
+      {
+        "merchant_name": "POKE HANA",
+        "date_range": "May 9, 2025 12:00 AM - Aug 8, 2025 11:59 PM\"\n",
+        "file_source": "./POKE HANA-Revenue Item Sales 08_08_2025.csv",
+        "gross_sales": 289728.26,
+        "net_sales": 287800.86,
+        "gross_profit": 186882.3,
+        "gross_profit_margin": 64.93,
+        "top_selling_items": [
+          {
+            "name": "Uncategorized",
+            "gross_sales": 101056.01
+          },
+          {
+            "name": "CUSTOM POKE",
+            "gross_sales": 63394.25
+          },
+          {
+            "name": "RICE PLATES",
+            "gross_sales": 45426.5
+          }
+        ],
+        "last_activity": "2025-08-08 00:00:00",
+        "status": "Active",
+        "inventory_details": {
+          "merchant_name": "POKE HANA",
+          "file_source": "./inventory-export-2.xlsx",
+          "total_items": 260,
+          "revenue_items": 173,
+          "non_revenue_items": 1,
+          "items_with_cost": 173,
+          "hidden_items": 38,
+          "avg_price": 14.781286549707604,
+          "total_inventory_value": 2527.6000000000004
+        }
+      },
+      {
+        "merchant_name": "MARATHON LIQUORS",
+        "date_range": "May 9, 2025 12:00 AM - Aug 8, 2025 11:59 PM\"\n",
+        "file_source": "./MARATHON LIQUORS-Revenue Item Sales 08_08_2025.csv",
+        "gross_sales": 428973.0,
+        "net_sales": 426703.17,
+        "gross_profit": 403932.21,
+        "gross_profit_margin": 94.66,
+        "top_selling_items": [
+          {
+            "name": "ITALIAN SUB DELI",
+            "gross_sales": 11621.54
+          },
+          {
+            "name": "Tito's Handmade Vodka 1.75 L",
+            "gross_sales": 10249.67
+          },
+          {
+            "name": "CAYMUS NAPA CABERNET S. WINE-MISC 1.0L CAYMUS NAPA CABERNET S. WINE-MISC 1.0L",
+            "gross_sales": 5299.47
+          }
+        ],
+        "last_activity": "2025-08-08 00:00:00",
+        "status": "Active",
+        "inventory_details": {
+          "merchant_name": "MARATHON LIQUORS",
+          "file_source": "./inventory-export-v2.xlsx",
+          "total_items": 35,
+          "revenue_items": 35,
+          "non_revenue_items": 0,
+          "items_with_cost": 0,
+          "hidden_items": 0,
+          "avg_price": 0,
+          "total_inventory_value": 0
+        }
+      },
+      {
+        "merchant_name": "Anthony's Pizza & Pasta",
+        "date_range": "Feb 7, 2025 12:00 AM - Aug 8, 2025 11:59 PM\"\n",
+        "file_source": "./Anthony's Pizza & Pasta-Revenue Item Sales 08_08_2025.csv",
+        "gross_sales": 68179.91,
+        "net_sales": 66290.19,
+        "gross_profit": 14342.73,
+        "gross_profit_margin": 21.64,
+        "top_selling_items": [
+          {
+            "name": "Medium Cheese 14 in Pizza",
+            "gross_sales": 841.43
+          },
+          {
+            "name": "XL Cheese 18 in Pizza",
+            "gross_sales": 839.77
+          },
+          {
+            "name": "Cheese Pizza - Extra Large 18\"\" - Regular Crust",
+            "gross_sales": 721.24
+          }
+        ],
+        "last_activity": "2025-08-08 00:00:00",
+        "status": "Active",
+        "inventory_details": {
+          "merchant_name": "Anthony's Pizza & Pasta",
+          "file_source": "./inventory-export.xlsx",
+          "total_items": 307,
+          "revenue_items": 226,
+          "non_revenue_items": 1,
+          "items_with_cost": 133,
+          "hidden_items": 115,
+          "avg_price": 14.140888888888888,
+          "total_inventory_value": 3181.7
+        }
+      }
+    ],
+    "top_3_merchants": [
+      {
+        "merchant_name": "MARATHON LIQUORS",
+        "date_range": "May 9, 2025 12:00 AM - Aug 8, 2025 11:59 PM\"\n",
+        "file_source": "./MARATHON LIQUORS-Revenue Item Sales 08_08_2025.csv",
+        "gross_sales": 428973.0,
+        "net_sales": 426703.17,
+        "gross_profit": 403932.21,
+        "gross_profit_margin": 94.66,
+        "top_selling_items": [
+          {
+            "name": "ITALIAN SUB DELI",
+            "gross_sales": 11621.54
+          },
+          {
+            "name": "Tito's Handmade Vodka 1.75 L",
+            "gross_sales": 10249.67
+          },
+          {
+            "name": "CAYMUS NAPA CABERNET S. WINE-MISC 1.0L CAYMUS NAPA CABERNET S. WINE-MISC 1.0L",
+            "gross_sales": 5299.47
+          }
+        ],
+        "last_activity": "2025-08-08 00:00:00",
+        "status": "Active",
+        "inventory_details": {
+          "merchant_name": "MARATHON LIQUORS",
+          "file_source": "./inventory-export-v2.xlsx",
+          "total_items": 35,
+          "revenue_items": 35,
+          "non_revenue_items": 0,
+          "items_with_cost": 0,
+          "hidden_items": 0,
+          "avg_price": 0,
+          "total_inventory_value": 0
+        }
+      },
+      {
+        "merchant_name": "POKE HANA",
+        "date_range": "May 9, 2025 12:00 AM - Aug 8, 2025 11:59 PM\"\n",
+        "file_source": "./POKE HANA-Revenue Item Sales 08_08_2025.csv",
+        "gross_sales": 289728.26,
+        "net_sales": 287800.86,
+        "gross_profit": 186882.3,
+        "gross_profit_margin": 64.93,
+        "top_selling_items": [
+          {
+            "name": "Uncategorized",
+            "gross_sales": 101056.01
+          },
+          {
+            "name": "CUSTOM POKE",
+            "gross_sales": 63394.25
+          },
+          {
+            "name": "RICE PLATES",
+            "gross_sales": 45426.5
+          }
+        ],
+        "last_activity": "2025-08-08 00:00:00",
+        "status": "Active",
+        "inventory_details": {
+          "merchant_name": "POKE HANA",
+          "file_source": "./inventory-export-2.xlsx",
+          "total_items": 260,
+          "revenue_items": 173,
+          "non_revenue_items": 1,
+          "items_with_cost": 173,
+          "hidden_items": 38,
+          "avg_price": 14.781286549707604,
+          "total_inventory_value": 2527.6000000000004
+        }
+      },
+      {
+        "merchant_name": "Anthony's Pizza & Pasta",
+        "date_range": "Feb 7, 2025 12:00 AM - Aug 8, 2025 11:59 PM\"\n",
+        "file_source": "./Anthony's Pizza & Pasta-Revenue Item Sales 08_08_2025.csv",
+        "gross_sales": 68179.91,
+        "net_sales": 66290.19,
+        "gross_profit": 14342.73,
+        "gross_profit_margin": 21.64,
+        "top_selling_items": [
+          {
+            "name": "Medium Cheese 14 in Pizza",
+            "gross_sales": 841.43
+          },
+          {
+            "name": "XL Cheese 18 in Pizza",
+            "gross_sales": 839.77
+          },
+          {
+            "name": "Cheese Pizza - Extra Large 18\"\" - Regular Crust",
+            "gross_sales": 721.24
+          }
+        ],
+        "last_activity": "2025-08-08 00:00:00",
+        "status": "Active",
+        "inventory_details": {
+          "merchant_name": "Anthony's Pizza & Pasta",
+          "file_source": "./inventory-export.xlsx",
+          "total_items": 307,
+          "revenue_items": 226,
+          "non_revenue_items": 1,
+          "items_with_cost": 133,
+          "hidden_items": 115,
+          "avg_price": 14.140888888888888,
+          "total_inventory_value": 3181.7
+        }
+      }
+    ]
+  },
+  "customers": {
+    "total_onboarded": 0,
+    "active_customers": 0,
+    "inactive_customers": 0,
+    "customers_with_names": 0,
+    "customers_with_phone": 0,
+    "customers_with_email": 0,
+    "customers_with_address": 0,
+    "profile_complete": 0,
+    "recent_signups_30days": 0,
+    "date_range": {
+      "earliest": null,
+      "latest": null
+    },
+    "engagement_rate": 0
+  },
+  "business_customers": {
+    "total_business_accounts": 741,
+    "active_accounts": 52,
+    "live_accounts": 136,
+    "total_mtd_volume": 503843.12000000005,
+    "total_last_month_volume": 2357866.82,
+    "high_volume_accounts": 63,
+    "avg_volume_per_account": 679.9502294197032,
+    "volume_categories": {
+      "high": 46,
+      "medium": 6,
+      "low": 689
+    },
+    "top_3_business_customers": [
+      {
+        "business_name": "The Stone Studio LLC",
+        "dba_name": "The Stone Studio",
+        "customer_id": 16453252,
+        "total_volume": 363752.0,
+        "mtd_volume": 127308.0,
+        "last_month_volume": 236444.0,
+        "account_status": "Live",
+        "volume_category": "High"
+      },
+      {
+        "business_name": "Warren Oral & Maxillofacial Surgery Associates LLC",
+        "dba_name": "Warren Oral Surgery",
+        "customer_id": 16320259,
+        "total_volume": 327930.25,
+        "mtd_volume": 41900.6,
+        "last_month_volume": 286029.65,
+        "account_status": "Live",
+        "volume_category": "High"
+      },
+      {
+        "business_name": "OAK STREET HAIR GROUP INC",
+        "dba_name": "OAK STREET HAIR GROUP IN",
+        "customer_id": 8975260,
+        "total_volume": 175063.97,
+        "mtd_volume": 25323.37,
+        "last_month_volume": 149740.6,
+        "account_status": "Live",
+        "volume_category": "High"
+      }
+    ]
+  },
+  "predictions": {
+    "next_2_months": {
+      "month_1_forecast": 91802.8,
+      "month_2_forecast": 96392.94,
+      "total_2_months": 188195.75
+    },
+    "same_period_next_year": {
+      "forecast": 904913.35,
+      "growth_projection": "15.0%"
+    },
+    "methodology": "Linear trend extrapolation based on current data"
+  }
+}
